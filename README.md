@@ -77,23 +77,24 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
-![image](https://github.com/Augustine0306/Histogram-of-an-images/assets/119404460/0f6a4f10-11be-4db4-a294-78ea447ed07d)
 
+![Screenshot 2024-04-18 081943](https://github.com/Augustine0306/Histogram-of-an-images/assets/119404460/55fa6553-3d13-490a-8c92-a52a0664d2d8)
 
 
 ### Histogram of Grayscale Image and any channel of Color Image
 ## Grayscale Image
 
-![image](https://github.com/Augustine0306/Histogram-of-an-images/assets/119404460/fdd837b7-f1d6-420b-834a-8afdc1afbf17)
+![image](https://github.com/Augustine0306/Histogram-of-an-images/assets/119404460/5f80a875-7088-4817-869b-2d86b139b425)
+![image](https://github.com/Augustine0306/Histogram-of-an-images/assets/119404460/07cb8a4f-1255-42a5-bd2a-d9a2ce67fde8)
 
 ## Color Image
-![image](https://github.com/Augustine0306/Histogram-of-an-images/assets/119404460/3bd184bb-1cde-4b38-a986-b1e7ca5be57d)
+![image](https://github.com/Augustine0306/Histogram-of-an-images/assets/119404460/6e76a2e1-59dc-490f-a8eb-866be423b025)
+![image](https://github.com/Augustine0306/Histogram-of-an-images/assets/119404460/a6d3c736-7d93-49bf-85b5-4d1b16250174)
+
 
 ### Histogram Equalization of Grayscale Image.
 
-
-![image](https://github.com/Augustine0306/Histogram-of-an-images/assets/119404460/6efd4b04-d04b-4101-b2bf-deabd825ac4d)
-
+![image](https://github.com/Augustine0306/Histogram-of-an-images/assets/119404460/c3f4fcc1-8d5a-423d-9ff3-87d185352a4c)
 
 ## Result: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
